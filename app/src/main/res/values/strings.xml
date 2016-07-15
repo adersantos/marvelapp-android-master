@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Marvel App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="personagens">Personagens</string>
+    <string name="frameworkSystem">Framework System - Android</string>
+    <string name="eventos">Eventos</string>
+    <string name="player">Player</string>
+    <string name="MAPS_KEI">AIzaSyBCDgppVg6rhPR3Ps0_Q5lpWculdtKb9WQ</string>
+    <string name="title_share">Compartilhar</string>
+    <string name="Map">Map</string>
+    <string name="msg_error_generic">Erro genérico</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
